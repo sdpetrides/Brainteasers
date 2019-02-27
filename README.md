@@ -1,4 +1,9 @@
 # Brainteasers
-Various brainteasers, many come from "Are You Smart Enough To Work At Google"
 
-See [wiki](https://github.com/sdpetrides/AYSETWAG/wiki/Home).
+List of head-scratcher questions and explanations.
+
+[Home](https://github.com/sdpetrides/Brainteasers/wiki/Home)
+
+### Sources
+ - "Are You Smart Enough To Work At Google" (WAG)
+ - "The Algorithm Design Manual" (ADM)
