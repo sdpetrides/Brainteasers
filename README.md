@@ -2,7 +2,7 @@
 
 List of head-scratcher questions and explanations.
 
-[Home](https://github.com/sdpetrides/Brainteasers/wiki/Home)
+[Brainteasers](https://github.com/sdpetrides/Brainteasers/wiki/Brainteasers)
 
 ### Sources
  - "Are You Smart Enough To Work At Google" (WAG)
